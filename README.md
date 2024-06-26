@@ -1,0 +1,2 @@
+# FinancialAIAssistant
+利用XTuner框架对本地大模型高效微调实战--以金融制度AI助手为例
